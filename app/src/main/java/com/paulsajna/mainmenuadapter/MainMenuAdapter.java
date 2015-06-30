@@ -1,4 +1,4 @@
-package com.sajnasoft.nettoolbox;
+package com.paulsajna.mainmenuadapter;
 
 import android.content.Context;
 import android.content.res.TypedArray;

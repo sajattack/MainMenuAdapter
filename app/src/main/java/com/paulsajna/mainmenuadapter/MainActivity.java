@@ -1,3 +1,5 @@
+package com.paulsajna.mainmenuadapter;
+
 import android.app.ListActivity;
 import android.content.Intent;
 import android.content.res.TypedArray;

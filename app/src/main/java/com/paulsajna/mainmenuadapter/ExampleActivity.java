@@ -1,4 +1,4 @@
-package com.sajnasoft.nettoolbox;
+package com.paulsajna.mainmenuadapter;
 
 import android.app.Activity;
 import android.os.Bundle;
