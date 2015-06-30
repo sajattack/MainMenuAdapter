@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>   
+    <string-array name="menu_titles">
+		<item>Example</item>
+	</string-array>
+	
+	<string-array name="menu_descs">
+		<item>An example menu item to illustrate usage</item>
+	</string-array>
+	
+	<array name="menu_icons">
+		<item>@drawable/ic_example</item>
+	</array>
+	
+	<string-array name="menu_classes">
+		<item>com.paulsajna.mainmenuadapter.ExampleActivity</item>
+	</string-array>
+</resources>
